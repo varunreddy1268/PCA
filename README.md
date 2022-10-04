@@ -1,7 +1,7 @@
 # PCA
 
 
-## You are asked to implement PCA (Principle Components Analysis) algorithm, project the high-dimensional data to 2 dimensions, and plot the 2-dimensional data points. 
+You are asked to implement PCA (Principle Components Analysis) algorithm, project the high-dimensional data to 2 dimensions, and plot the 2-dimensional data points. 
 
 Dataset Description: 
 You are expected to conduct dimensionality reduction on three biomedical data files (pca_a.txt, pca_b.txt, pca_c.txt), which can be found on Piazza. 
