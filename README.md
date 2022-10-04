@@ -33,7 +33,8 @@ Step4: obtain the essential or number of features from the vectors according to 
 #Execution:
 
 --> Run the PCA.py file  : 
-     <img width="241" alt="Screen Shot 2022-10-04 at 3 21 53 PM" src="https://user-images.githubusercontent.com/71369489/193940939-67498c0a-51f2-43dc-aa88-168a970a3d3e.png">
+
+<img width="241" alt="Screen Shot 2022-10-04 at 3 21 53 PM" src="https://user-images.githubusercontent.com/71369489/193940939-67498c0a-51f2-43dc-aa88-168a970a3d3e.png">
 
     --> The first input is the file path of the data set. So provide the path of the csv file
     --> The second input is the number of components.
